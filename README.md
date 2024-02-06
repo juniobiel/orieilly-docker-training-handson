@@ -1,4 +1,4 @@
-# O'Reillly Docker, Dockerfile and Docker-Compose course
+# O'Reilly Docker, Dockerfile and Docker-Compose course
 
 This repository was used to practical content of the learning training.
 
